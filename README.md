@@ -1,8 +1,8 @@
 # TecanSafireTool
 
-This jupyter notebook was originally created for personal use to quickly create plots of UV-Vis spectra originating from a Tecan Safire II spectrophotometer
+This jupyter notebook was originally created for personal use to quickly create plots of UV-Vis spectra originating from a Tecan Safire II spectrophotometer.
 
-The workbook extracts metadata and optical absorbance spectra from Excel sheets (Microsoft Excel 97-2003) generated from the Tecan Safire II in a specific format
+The workbook extracts metadata and optical absorbance spectra from Excel sheets (Microsoft Excel 97-2003) generated from the Tecan Safire II in a specific format.
 
 ## Features
 1. Detects wavelength range
